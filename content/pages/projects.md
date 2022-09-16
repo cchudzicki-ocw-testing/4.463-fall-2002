@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the midterm and final projects for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
